@@ -1,3 +1,9 @@
+
 line one
 from feature
 my first feature
+
+
+B version
+
+A version 
